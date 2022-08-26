@@ -1,0 +1,1 @@
+# Lottó sorsoló alkalmazás
