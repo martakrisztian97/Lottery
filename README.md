@@ -1,4 +1,4 @@
-# Lottósorsolás
+# 🍀Lottósorsolás🍀
 
 - Ötöslottó
 - Hatoslottó
